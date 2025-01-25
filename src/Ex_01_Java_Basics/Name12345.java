@@ -1,4 +1,4 @@
-package ex_01_Java_Basics;
+package Ex_01_Java_Basics;
 
 public class Name12345 {
 

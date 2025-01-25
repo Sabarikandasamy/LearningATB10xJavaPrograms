@@ -1,4 +1,4 @@
-package ex_01_Java_Basics;
+package Ex_01_Java_Basics;
 
 public class Lab003_No_mainmethod {
 
