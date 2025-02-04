@@ -5,7 +5,7 @@ public class Lab061_TypeCasting_Used {
         //GST - 18.45
         int course = 100;
         float GST = 18.45F;
-        int total_int = course+GST; // Narrow - Implicit casting (Not possible)
+         //int total_int = course+GST; // Narrow - Implicit casting (Not possible)
         int total_int = course+(int)GST; // Narrow - Explicit Casting
 
         float total = course + GST; // Widenning - Implicit happening automatically
