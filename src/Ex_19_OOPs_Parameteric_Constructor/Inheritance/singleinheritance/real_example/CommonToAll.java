@@ -1,4 +1,4 @@
-package Ex_19_OOPs_Parameteric_Constructor_2.singleinheritance.real_example;
+package Ex_19_OOPs_Parameteric_Constructor.Inheritance.singleinheritance.real_example;
 
 public class CommonToAll {
     void startBrowser(){

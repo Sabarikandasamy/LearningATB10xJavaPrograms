@@ -1,4 +1,4 @@
-package Ex_19_OOPs_Parameteric_Constructor_2.singleinheritance.ex1;
+package Ex_19_OOPs_Parameteric_Constructor.Inheritance.singleinheritance;
 
 public class Lab168_SI {
     public static void main(String[] args) {
