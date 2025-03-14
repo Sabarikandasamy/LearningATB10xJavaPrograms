@@ -8,11 +8,11 @@ public class Lab189_Multiple_Inheritance_solved {
 
 }
 class Child1 implements Father1, Mother1{
-
-    @Override 2 usages
+    @Override
     public void money() {
         System.out.println("only 1 money");
     }
+
     @Override
     public void m1(){
 
@@ -29,6 +29,9 @@ interface Mother1{
 
 interface Father1{
     void money();
+
+    void m1();
+
     void f1();
 
     default void ff(){

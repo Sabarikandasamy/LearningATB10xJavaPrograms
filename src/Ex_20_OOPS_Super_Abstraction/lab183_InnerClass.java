@@ -13,6 +13,6 @@ public class lab183_InnerClass {
 
         }
     }
-}
+
 // public class ABC{
 // we cannot have 2 public classes
