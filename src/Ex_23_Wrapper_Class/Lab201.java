@@ -6,13 +6,14 @@ public class Lab201 {
     }
 }
 
-class ATB{
+class ATB {
     String name;
     Long phone;
     Integer salary;
     Float GST;
     Boolean isMarried;
-    //int -> data Type
-    // integer - class - who object can be created.
+//int -> data Type
+// Integer - class - who object can be created.
 
-     //why java is not pure OOPS¿ - Because -> primitive data types.
+// Why Java is not pure OOPs? - Becoz -> primitive data types.
+}
