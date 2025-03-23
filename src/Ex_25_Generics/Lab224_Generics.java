@@ -1,4 +1,4 @@
-package Ex_24_Exceptions;
+package Ex_25_Generics;
 
 public class Lab224_Generics {
     public static void main(String[] args) {
