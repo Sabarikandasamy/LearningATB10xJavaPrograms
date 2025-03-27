@@ -9,7 +9,7 @@ public class    Lab225 {
     }
     //T -> can be any data type
 
-    piblic static <T> T temp (T a, T b){
+    public static <T> T temp (T a, T b){
         System.out.println(a);
         System.out.println(b);
         return null;
